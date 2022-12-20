@@ -4,7 +4,7 @@ I am Ruchi Sharma, a graduate student at 📚 The University of Texas at Austin 
 
 Presently, I am seeking full-time roles in Data Science, Machine Learning, and related fields starting May 2023. I am 👔 proficient in python, good with SQL and can work with R too. Additionally, I have good understanding of 🤓 Data Structures and Algorithms, Machine Learning, Natural Language Processing, and Time Series Analysis. Learning never stops, and I will be studying 👩🏻‍🎓 Deep Learning, FinTech and Social Media Analytics in my final semester at UT Austin. 
 
-Reach out at: ruchi.sharma@utexas.edu 
+Reach out at: ruchi.sharma@utexas.edu  \
 Profiles: https://www.linkedin.com/in/ruchi2110/, https://www.hackerrank.com/ruch21
 
 
