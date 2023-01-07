@@ -7,7 +7,8 @@ Presently, I am seeking full-time roles in Data Science, Machine Learning, and r
 Reach out at: ruchi.sharma@utexas.edu  
 
 LinkedIn: https://www.linkedin.com/in/ruchi2110/  \
-HackerRank: https://www.hackerrank.com/ruch21
+HackerRank: https://www.hackerrank.com/ruch21 \
+Tableau: https://public.tableau.com/app/profile/ruchis21
 
 
 <!--
