@@ -10,6 +10,7 @@ LinkedIn: https://www.linkedin.com/in/ruchi2110/  \
 HackerRank: https://www.hackerrank.com/ruch21 \
 Tableau: https://public.tableau.com/app/profile/ruchis21
 
+Twitter: https://twitter.com/whyruchiwhy 
 
 <!--
 **honeybadger21/honeybadger21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
