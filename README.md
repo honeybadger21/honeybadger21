@@ -9,7 +9,7 @@ I am 👔 proficient in python, good with SQL and can work with R too. Additiona
 4. [Sentiment Analysis using NLP](https://github.com/honeybadger21/twitter-data-sentiment-analysis/blob/main/SentiTweets.ipynb)
 5. [Housing Price Prediction using Advanced Regression Techniques](https://github.com/honeybadger21/house-prices-regression/blob/main/House-Prices.ipynb)
 
-[LinkedIn](https://www.linkedin.com/in/ruchi2110/), [Twitter](https://twitter.com/whyruchiwhy), [HackerRank](https://www.hackerrank.com/ruch21), [Tableau](https://public.tableau.com/app/profile/ruchis21)
+Also, check out: [LinkedIn](https://www.linkedin.com/in/ruchi2110/), [Twitter](https://twitter.com/whyruchiwhy), [HackerRank](https://www.hackerrank.com/ruch21), [Tableau](https://public.tableau.com/app/profile/ruchis21)
 <!--
 **honeybadger21/honeybadger21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
