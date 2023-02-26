@@ -4,13 +4,12 @@ I am Ruchi Sharma, a graduate student at 📚 The University of Texas at Austin 
 
 I am 👔 proficient in python, good with SQL and can work with R too. Additionally, I have good understanding of 🤓 Data Structures and Algorithms, Machine & Deep Learning Concepts, Natural Language Processing, and Time Series Analysis. Here are some of the cool projects I've done in the past:
 1. [Network Analytics on Twitter Data](https://github.com/honeybadger21/Network-Analytics-Adani-Tweets/blob/main/AdaniNetworkAnalytics.ipynb)
-2. A/B Test in Python [https://github.com/honeybadger21/ABTest-Python/blob/main/ABTest.ipynb] 
-3. Sales Prediction with Deep Learning [https://github.com/honeybadger21/sales-prediction-with-deep-learning/blob/main/FutureSalesDL.ipynb]
-4. Sentiment Analysis using NLP [https://github.com/honeybadger21/twitter-data-sentiment-analysis/blob/main/SentiTweets.ipynb]
-5. Housing Price Prediction using Advanced Regression Techniques [https://github.com/honeybadger21/house-prices-regression/blob/main/House-Prices.ipynb]
+2. [A/B Test in Python](https://github.com/honeybadger21/ABTest-Python/blob/main/ABTest.ipynb)
+3. [Sales Prediction with Deep Learning](https://github.com/honeybadger21/sales-prediction-with-deep-learning/blob/main/FutureSalesDL.ipynb)
+4. [Sentiment Analysis using NLP](https://github.com/honeybadger21/twitter-data-sentiment-analysis/blob/main/SentiTweets.ipynb)
+5. [Housing Price Prediction using Advanced Regression Techniques](https://github.com/honeybadger21/house-prices-regression/blob/main/House-Prices.ipynb)
 
-LinkedIn: https://www.linkedin.com/in/ruchi2110/ | Twitter: https://twitter.com/whyruchiwhy  \
-HackerRank: https://www.hackerrank.com/ruch21 | Tableau: https://public.tableau.com/app/profile/ruchis21
+[LinkedIn](https://www.linkedin.com/in/ruchi2110/), [Twitter](https://twitter.com/whyruchiwhy), [HackerRank](https://www.hackerrank.com/ruch21), [Tableau](https://public.tableau.com/app/profile/ruchis21)
 <!--
 **honeybadger21/honeybadger21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
