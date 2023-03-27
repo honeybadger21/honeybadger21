@@ -13,6 +13,7 @@ Reach out at: ruchi.sharma@utexas.edu, rsharma@ch.iitr.ac.in \
 Also, check out: [HackerRank](https://www.hackerrank.com/ruch21), [Tableau](https://public.tableau.com/app/profile/ruchis21)
 
 Explore more at: [Ruchi's LinkedIn Posts & Activity](https://www.linkedin.com/in/ruchi2110/recent-activity/shares/)
+
 <!--
 **honeybadger21/honeybadger21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
