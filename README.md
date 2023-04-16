@@ -11,7 +11,7 @@ I am 👔 proficient in python, good with SQL and can work with R too. Additiona
 6. [Trading Simulator in Python](https://github.com/honeybadger21/trading-sim/blob/main/TradingSimulator.ipynb)
 
 Reach out at: ruchi.sharma@utexas.edu, rsharma@ch.iitr.ac.in \
-Also, check out: [HackerRank](https://www.hackerrank.com/ruch21), [Tableau](https://public.tableau.com/app/profile/ruchis21), [LeetCode](https://leetcode.com/WamDam/)
+Also, check out: [HackerRank](https://www.hackerrank.com/ruch21), [LeetCode](https://leetcode.com/WamDam/), [Tableau](https://public.tableau.com/app/profile/ruchis21)
 
 Explore more at: [Ruchi's LinkedIn Posts & Activity](https://www.linkedin.com/in/ruchi2110/recent-activity/shares/)
 
