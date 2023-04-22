@@ -15,7 +15,7 @@ Also, check out: [HackerRank](https://www.hackerrank.com/ruch21), [LeetCode](htt
 
 Explore more at: [Ruchi's LinkedIn Posts & Activity](https://www.linkedin.com/in/ruchi2110/recent-activity/shares/)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=honeybadger21)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=honeybadger21) --> 
 <!--
 **honeybadger21/honeybadger21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
