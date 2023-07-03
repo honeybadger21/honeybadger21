@@ -1,8 +1,9 @@
 #### Hi there 👋
 
-I am Ruchi Sharma, a graduate student at 📚 The University of Texas at Austin pursuing MS in Business Analytics. Prior to this, I served as an Analytics Associate at the payments giant 💳 Mastercard Inc., working within the Data & Services arm. Stepping into the world of Data Science after earning a BTech in 🧪 Chemical Engineering from the prestigious IIT Roorkee [Top 5 STEM School in India] was a result of exploring beyond traditional classroom learning. During my sophomore and junior year, I contributed to large-scale research focusing on the application of 💬 NLP and Text Analytics to discover patterns for understanding conversational dynamics, track gender biases in academia and quantify the effect of investing in digital marketing capabilities. 
+I am Ruchi Sharma, an almost smart kid. I work in Finance, and I have two degrees. For my professional journey, check out [Ruchi's LinkedIn](https://www.linkedin.com/in/ruchi2110/)
 
-I am 👔 proficient in python, good with SQL and can work with R too. Additionally, I have good understanding of 🤓 Data Structures and Algorithms, Machine Learning & Deep Learning Concepts, Natural Language Processing, and Time Series Analysis. Here are some of the cool projects I've done in the past:
+Furthermore, I am 👔 proficient in python, good with SQL and can work with R too. Additionally, I have good understanding of 🤓 Data Structures and Algorithms, Machine Learning & Deep Learning Concepts, Natural Language Processing, and Time Series Analysis. Here are some of the cool projects I've done in the past:
+
 1. [Network Analytics on Twitter Data](https://github.com/honeybadger21/Network-Analytics-Adani-Tweets/blob/main/AdaniNetworkAnalytics.ipynb)
 2. [A/B Test in Python](https://github.com/honeybadger21/ABTest-Python/blob/main/ABTest.ipynb)
 3. [Sales Prediction with Deep Learning](https://github.com/honeybadger21/sales-prediction-with-deep-learning/blob/main/FutureSalesDL.ipynb)
