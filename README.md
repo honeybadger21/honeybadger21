@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I am Ruchi Sharma, an almost smart kid. I work in Finance, and I have two degrees. For my professional journey, check out [Ruchi's LinkedIn](https://www.linkedin.com/in/ruchi2110/).
+I am Ruchi Sharma, an almost smart kid. I work in Digital Finance, and I have two degrees. For my professional journey, check out [Ruchi's LinkedIn](https://www.linkedin.com/in/ruchi2110/).
 
 Furthermore, I am 👔 proficient in python, good with SQL and can work with R too. Additionally, I have good understanding of 🤓 Data Structures and Algorithms, Machine Learning & Deep Learning Concepts, Natural Language Processing, and Time Series Analysis. Here are some of the cool projects I've done in the past:
 
